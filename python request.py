@@ -56,6 +56,7 @@ if x["cod"] != "404":
 
 	# print following values
 	print(" Temperature (in kelvin unit) = " +
+	
 					str(current_temperature) +
 		"\n atmospheric pressure (in hPa unit) = " +
 					str(current_pressure) +
